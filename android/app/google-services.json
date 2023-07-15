@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "230224905462",
+    "project_id": "astratechtask",
+    "storage_bucket": "astratechtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230224905462:android:5cbdacba5f1b1b98d218d7",
+        "android_client_info": {
+          "package_name": "com.astratech.ahmedsaeedtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230224905462-lhdcki2hukt923m3opskb88tmd1n4evq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjYvT2ApQ0GkxBMv49fny93BrsCc5jBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230224905462-lhdcki2hukt923m3opskb88tmd1n4evq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "230224905462-5frva6qk1a2i79q7105fjnakucb5qs17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.astratech.ahmedsaeedtask.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
